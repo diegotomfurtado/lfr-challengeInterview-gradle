@@ -1,0 +1,4 @@
+Bundle-Name: lfr-challengeInterview-BDD
+Bundle-SymbolicName: lfr.challengeInterview.BDD
+Bundle-Version: 1.0.0
+Export-Package: lfr.challengeInterview.BDD.constants
